@@ -57,8 +57,3 @@ stop_d = triptranslator.BoardingCard(
 
 translate_boarding_cards([stop_a, stop_b, stop_c, stop_d])
 ```
-
-
-## Reason for all this?
-
-Test question from http://promo.propertyfinder.ae/devtest/
