@@ -11,7 +11,7 @@ Python library for translating boarding passes into human readable directions.
 Package requires `python2.7` with no additional dependencies.
 
 ```
-$ git clone <this repo>
+$ git clone https://github.com/niktto/triptranslator.git
 $ cd triptranslator
 $ python setup.py test
 ```
